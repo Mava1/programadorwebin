@@ -1,0 +1,39 @@
+#contenedor {
+    border: 1px solid #aaa;
+    background-color: #dddddd;
+    margin: 0 auto;
+    width: 60%;
+    height: 1000px;
+    position: relative;
+}
+
+#info {
+    top: 0px;
+    left: 0px;
+    margin: 0 auto;
+    height: 50%;
+    width: 94%;
+    border: 1px solid #80BC3A;
+    margin-bottom: 20px;
+    background-color: #45b9c9;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: size 33px;
+    font-weight: 400px;
+    text-align: center;
+
+}
+
+h2 {
+    color: rgb(60, 40, 150);
+    font-style: italic;
+
+}
+
+h3 {
+    color: rgb(60, 40, 150);
+    font-size: large;
+}
